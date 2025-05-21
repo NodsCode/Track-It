@@ -1,8 +1,8 @@
 import { View, Text } from "react-native";
 import React, { useState } from "react";
 import { Icon } from "react-native-elements";
-import Tab from "react-bootstrap/Tab";
-import Tabs from "react-bootstrap/Tabs";
+//import Tab from "react-bootstrap/Tab";
+//import Tabs from "react-bootstrap/Tabs";
 import TabMenu from "../components/TabMenu";
 
 const HomeScreen = () => {
